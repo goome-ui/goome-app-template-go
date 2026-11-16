@@ -1,0 +1,6 @@
+my-goome-app
+*.exe
+shots*/
+*.ppm
+.idea/
+.vscode/
